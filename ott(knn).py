@@ -12,7 +12,7 @@ test=open(PATH+"test.csv","r")
 train_csv=csv.reader(train)
 test_csv=csv.reader(test)
 
-count=0
+#count=0
 num1=0
 num2=0
 num3=0
